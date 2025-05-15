@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/category_setup">
+
+    <fragment
+        android:id="@+id/category_setup"
+        android:name="com.example.myapplication12.CategorySetupFragment"
+        android:label="Category Setup">
+        <action
+            android:id="@+id/action_category_setup_to_dashboard"
+            app:destination="@id/navigation_dashboard"
+            app:popUpTo="@id/category_setup"
+            app:popUpToInclusive="true" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_dashboard"
+        android:name="com.example.myapplication12.DashboardFragment"
+        android:label="Dashboard" />
+
+    <fragment
+        android:id="@+id/navigation_rewards"
+        android:name="com.example.myapplication12.RewardsFragment"
+        android:label="Rewards" />
+
+    <fragment
+        android:id="@+id/navigation_investments"
+        android:name="com.example.myapplication12.InvestmentsFragment"
+        android:label="Investments" />
+
+    <fragment
+        android:id="@+id/navigation_news"
+        android:name="com.example.myapplication12.NewsFragment"
+        android:label="News" />
+
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="com.example.myapplication12.SettingsFragment"
+        android:label="Settings" />
+
+</navigation> 
