@@ -1,0 +1,14 @@
+C:\Users\aobak\source\repos\RecipePOE\RecipePOE\bin\Debug\net8.0\RecipePOE.exe
+C:\Users\aobak\source\repos\RecipePOE\RecipePOE\bin\Debug\net8.0\RecipePOE.deps.json
+C:\Users\aobak\source\repos\RecipePOE\RecipePOE\bin\Debug\net8.0\RecipePOE.runtimeconfig.json
+C:\Users\aobak\source\repos\RecipePOE\RecipePOE\bin\Debug\net8.0\RecipePOE.dll
+C:\Users\aobak\source\repos\RecipePOE\RecipePOE\bin\Debug\net8.0\RecipePOE.pdb
+C:\Users\aobak\source\repos\RecipePOE\RecipePOE\obj\Debug\net8.0\RecipePOE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aobak\source\repos\RecipePOE\RecipePOE\obj\Debug\net8.0\RecipePOE.AssemblyInfoInputs.cache
+C:\Users\aobak\source\repos\RecipePOE\RecipePOE\obj\Debug\net8.0\RecipePOE.AssemblyInfo.cs
+C:\Users\aobak\source\repos\RecipePOE\RecipePOE\obj\Debug\net8.0\RecipePOE.csproj.CoreCompileInputs.cache
+C:\Users\aobak\source\repos\RecipePOE\RecipePOE\obj\Debug\net8.0\RecipePOE.dll
+C:\Users\aobak\source\repos\RecipePOE\RecipePOE\obj\Debug\net8.0\refint\RecipePOE.dll
+C:\Users\aobak\source\repos\RecipePOE\RecipePOE\obj\Debug\net8.0\RecipePOE.pdb
+C:\Users\aobak\source\repos\RecipePOE\RecipePOE\obj\Debug\net8.0\RecipePOE.genruntimeconfig.cache
+C:\Users\aobak\source\repos\RecipePOE\RecipePOE\obj\Debug\net8.0\ref\RecipePOE.dll
